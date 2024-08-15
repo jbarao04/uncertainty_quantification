@@ -4,6 +4,6 @@ Simple and effective implementation of different UQ methods
 This repository is an easy way to start using uncertainty quantification on your ML model. Each of the notebooks applies a different method to the 'customer purchase' dataset with a state-of-the-art machine learning model.
 
 ## Example Notebooks
-- [Delete-d Jackknife](./notebooks/Delete-d_Jackknife.ipynb)
+- [Delete-d Jackknife](./notebooks/Delete-d_Jackknife.ipynb): The Delete-d Jackknife is designed to provide prediction intervals using sampling techniques. This approach follows the methodology described in Giordano (2019), Wager & Hastie & Efron (2014) and Shao & Wun (1989)
 - [Ensemble Methods](./notebooks/EnsembleMethods.ipynb)
 - [Black-Box MetaModel](./notebooks/BB_MetaModel.ipynb)

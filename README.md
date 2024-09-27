@@ -8,6 +8,3 @@ This repository is an easy way to start using uncertainty quantification on your
 - [Ensemble Methods](./notebooks/EnsembleMethods.ipynb): Ensemble Methods are important techniques can be adapted and used to provide Uncertainty Quantification through Prediction intervals.
 - [Black-Box MetaModel](./notebooks/BB_MetaModel.ipynb): The Metamodel Classification is designed to provide confidence scores for predictions made by black-box classification models using a meta-model approach. This approach follows the methodology described in Chen et al. (2019)
 
-## Dataset
-
-The dataset used was [customer_purchase](./data/customer_purchase_data.csv)
